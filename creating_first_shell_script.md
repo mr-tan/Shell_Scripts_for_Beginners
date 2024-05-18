@@ -7,6 +7,8 @@
 - Best Practice:
     1. always give filename that make sense
     2. executable remove ".sh" extension
+
+* Review download_resource pdf
 ---
 
 ```bash
