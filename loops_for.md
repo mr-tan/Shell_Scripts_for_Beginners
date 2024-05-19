@@ -17,6 +17,7 @@ Loops - For
 # Loop - For Syntax
 for mission in lunar-mission jupiter-mission saturn-mission
 do
+# bash /home/bob/create-and-launch-rocket $mission
   create-and-launch-rocket $mission
 done
 
